@@ -4,8 +4,8 @@ Normalized Stochasticity Ratio in community assembly
 Daliang Ning 2020.9.20
 
 ## News
-2020.9.20 set up GitHub repository for NST package. Different versions and an example are uploaded.
-2020.9.16 [NST v3.0.3](https://cran.r-project.org/web/packages/NST) is published on CRAN. Phylogentic NST is added.
+- 2020.9.20 set up GitHub repository for NST package. Different versions and an example are uploaded.
+- 2020.9.16 [NST v3.0.3](https://cran.r-project.org/web/packages/NST) is published on CRAN. Phylogentic NST is added.
 
 ## Key functions in NST package
 The following indexes can be find in the output of function tNST or pNST.
