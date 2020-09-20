@@ -31,7 +31,7 @@ The following indexes can be find in the output of function tNST or pNST.
 - Install NST.
   - Install published NST: Open R, use function "install.packages" as below.    
   ```
-  install.packages("iCAMP")
+  install.packages("NST")
   ```
   - Install from source file:
     - Download an NST version from this repository NST/RPackage/AllVersions.
