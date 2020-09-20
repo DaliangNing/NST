@@ -6,6 +6,8 @@ Daliang Ning 2020.9.20
 ## News
 - 2020.9.20 set up GitHub repository for NST package. Different versions and an example are uploaded.
 - 2020.9.16 [NST v3.0.3](https://cran.r-project.org/web/packages/NST) is published on CRAN. Phylogentic NST is added.
+- 2019.8.20 The paper about NST framework development is published on PNAS ([Ning et al 2019 PNAS](https://doi.org/10.1073/pnas.1904623116)).
+- 2019.6.15 NST v2.0.3 is published on CRAN.
 
 ## Key functions in NST package
 The following indexes can be find in the output of function tNST or pNST.
