@@ -19,3 +19,5 @@ The following indexes can be find in the output of function tNST or pNST.
 - **Phylogenetic beta diversity**: beta mean nearest taxon distance (betaMNTD; [Webb & Kembel 2008 Bioinformatics](https://doi.org/10.1093/bioinformatics/btn358)).
 - **Null model algorithms**: various null model algorithms including many different ways to contrain richness, occurrance frequency, and abundance ([Gotelli 2000 Ecology](https://doi.org/10.1890/0012-9658(2000)081[2606:NMAOSC]2.0.CO;2); [Webb & Kembel 2008 Bioinformatics](https://doi.org/10.1093/bioinformatics/btn358); [Stegen et al 2013 ISME J](https://doi.org/10.1038/ismej.2013.93)); plus 'taxa shuffle' ([Kembel 2009 Ecol Lett](https://doi.org/10.1111/j.1461-0248.2009.01354.x)), which is specific to phylogenetic metrics.
 
+## Publication
+[1]	Ning D, Deng Y, Tiedje JM, and Zhou J. A General Framework for Quantitatively Assessing Ecological Stochasticity. Proceedings of the National Academy of Sciences of the United States of America 116, 16892-16898 (2019) [doi:10.1073/pnas.1904623116](https://doi.org/10.1073/pnas.1904623116).
