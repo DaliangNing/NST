@@ -2,7 +2,7 @@
 Normalized Stochasticity Ratio in community assembly
 
 Daliang Ning 2020.9.20
-- Downloaded **6153** times from 2019.6.15 to 2020.10.1.
+- Downloaded **6207** times from 2019.6.15 to 2020.10.4.
 - Recommendation: [iCAMP (assessment of different community assembly processes)](https://github.com/DaliangNing/iCAMP1)
 ## News
 - 2020.9.20 set up GitHub repository for NST package. Different versions and an example are uploaded.
