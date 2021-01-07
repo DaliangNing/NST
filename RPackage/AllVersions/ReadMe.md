@@ -1,5 +1,6 @@
 # All versions of iCAMP package
-
+- Version 3.0.6: update references.
+- Version 3.0.5: debug nst.panova.
 - Version 3.0.4: 2020.9.20
 - Version 3.0.3: 2020.9.9, submit to CRAN.
 - Version 3.0.2: 2020.8.31
