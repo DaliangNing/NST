@@ -1,5 +1,5 @@
 # NST
-Normalized Stochasticity Ratio in community assembly
+Normalized Stochasticity Ratio in community assembly (Latest version 3.0.6)
 
 Daliang Ning
 - Downloaded **7832** times from 2019.6.15 to 2021.1.6.
