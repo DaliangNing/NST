@@ -2,9 +2,10 @@
 Normalized Stochasticity Ratio in community assembly (Latest version 3.0.6)
 
 Daliang Ning
-- Downloaded **7935** times from 2019.6.15 to 2021.1.10.
+- Downloaded **9824** times from 2019.6.15 to 2021.4.17.
 - Recommendation: [iCAMP (assessment of different community assembly processes)](https://github.com/DaliangNing/iCAMP1)
 ## News
+- 2021.4.18 NST v3.1.2 updated on [github](https://github.com/DaliangNing/NST/tree/master/RPackage/AllVersions), to allow relative abundances in community matrix and community data transformation.
 - 2021.1.8 NST v3.0.6 updated on CRAN; fixed some bugs and updated github link and references.
 - 2020.9.20 set up GitHub repository for NST package. Different versions and an example are uploaded.
 - 2020.9.16 [NST v3.0.3](https://cran.r-project.org/web/packages/NST) is published on CRAN. Phylogentic NST is added.
