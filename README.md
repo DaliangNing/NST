@@ -1,8 +1,8 @@
 # NST
-Normalized Stochasticity Ratio in community assembly (Latest version 3.0.6)
+Normalized Stochasticity Ratio in community assembly (Latest version 3.1.3)
 
 Daliang Ning
-- Downloaded **9824** times from 2019.6.15 to 2021.4.17.
+- Downloaded **10,167** times from 2019.6.15 to 2021.5.9.
 - Recommendation: [iCAMP (assessment of different community assembly processes)](https://github.com/DaliangNing/iCAMP1)
 ## News
 - 2021.5.11 NST v3.1.3 updated, adding options to specify occurrence frequency in the regional pool. 
