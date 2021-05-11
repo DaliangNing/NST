@@ -5,6 +5,7 @@ Daliang Ning
 - Downloaded **9824** times from 2019.6.15 to 2021.4.17.
 - Recommendation: [iCAMP (assessment of different community assembly processes)](https://github.com/DaliangNing/iCAMP1)
 ## News
+- 2021.5.11 NST v3.1.3 updated, adding options to specify occurrence frequency in the regional pool. 
 - 2021.4.18 NST v3.1.2 updated on [github](https://github.com/DaliangNing/NST/tree/master/RPackage/AllVersions), to allow relative abundances in community matrix and community data transformation.
 - 2021.4.1 Frontiers in Microbilogy opens a research topic [**Community Assembly Mechanisms Shaping Microbiome Spatial or Temporal Dynamics**](https://www.frontiersin.org/research-topics/20916/).
 - 2021.1.8 NST v3.0.6 updated on CRAN; fixed some bugs and updated github link and references.
