@@ -1,21 +1,22 @@
 # NST analysis example: SimpleOTU
-Daliang Ning. 2020.9.20
+Daliang Ning. 2021.5.11
 
 ## 1. System requirements
 - Operating systems: Windows, or Mac, or Linux, any versions which can run R (version >= 3.5).
 - Dependencis: R (version >=3.5; https://www.r-project.org/), R packages: vegan,parallel,permute,ape,bigmemory,iCAMP.
-- NST current version 3.0.4 has been tested on the current development version of R (4.1.0, 2020-8-18 r79041), R 4.0.2, and R 3.5.3. 
+- NST current version in CRAN 3.0.6 has been tested on the current development version of R (4.1.0, 2020-8-18 r79041), R 4.0.2, and R 3.5.3. 
+- The newest version of NST (v3.1.3) can be download from [/RPackage/AllVersions](https://github.com/DaliangNing/NST/tree/master/RPackage/AllVersions).
 - Any required non-standard hardware: No. However, if you calculate pNST for a large dataset (e.g. >20,000 taxa), a server with enough CPU threads (e.g. >=20) is preferred to finish the calculation in reasonable time.
 
 ## 2. Installation guide
 - Downlaod and install R (https://www.r-project.org/).
 - Install NST.
-  - Install published NST: Open R, use function "install.packages" as below.    
+  - Install published NST (version 3.0.6): Open R, use function "install.packages" as below.    
   ```
   install.packages("NST")
   ```
-  - Install from source file:
-    - Download an NST version from this repository NST/RPackage/AllVersions.
+  - Install from source file (other versions, e.g. version 3.1.3):
+    - Download an NST version from this repository [NST/RPackage/AllVersions](https://github.com/DaliangNing/NST/tree/master/RPackage/AllVersions).
     - Open R, install or update following packages: vegan,parallel,permute,ape,bigmemory,iCAMP.
     ```
     install.packages(c("vegan", "permute", "ape", "bigmemory", "iCAMP"))
