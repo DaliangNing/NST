@@ -1,4 +1,9 @@
 # All versions of NST package
+- Version 3.1.5: add function cNST to calculate NST using user customized beta diversity and the null results.
+- Version 3.1.4: debug ab.assign.
+- Version 3.1.3: add options to specify occurrence frequency in regional pool.
+- Version 3.1.2: provide temporary solution for the failure of makeCluster in some OS.
+- Version 3.1.1: add options to allow input propotional data (rather than counts) as community matrix, as well as community data transformation before dissimilarity calculation.
 - Version 3.0.6: 2021.1.7, update references.
 - Version 3.0.5: 2020.12.2, debug nst.panova.
 - Version 3.0.4: 2020.9.20, update github link of NST; update nst.boot and nst.panova to include MST results.
