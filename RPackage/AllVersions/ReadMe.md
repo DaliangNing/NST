@@ -1,4 +1,5 @@
 # All versions of NST package
+- Version 3.1.6: revise functions tNST, pNST, cNST, nst.boot, and nst.panova to avoid error for special cases in MST calculation.
 - Version 3.1.5: add function cNST to calculate NST using user customized beta diversity and the null results.
 - Version 3.1.4: debug ab.assign.
 - Version 3.1.3: add options to specify occurrence frequency in regional pool.
