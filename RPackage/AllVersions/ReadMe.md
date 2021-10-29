@@ -1,4 +1,5 @@
 # All versions of NST package
+- Version 3.1.8: add summary and test for SES and RC in functions tNST, pNST, cNST, nst.boot, and nst.panova.
 - Version 3.1.7: revise function nst.panova to avoid error for special cases in permutation.
 - Version 3.1.6: revise functions tNST, pNST, cNST, nst.boot, and nst.panova to avoid error for special cases in MST calculation.
 - Version 3.1.5: add function cNST to calculate NST using user customized beta diversity and the null results.
