@@ -4,6 +4,7 @@ This folder archives all versions of NST package.
 - Published: all versions submitted/published on CRAN (https://cran.r-project.org/).
 - AllVersions: all versions of NST package including the latest one.
 ## History
+- **2022-4-10** uploaded version 3.1.9: address notes from package check, then upload to CRAN.
 - **2021-10-29** uploaded version 3.1.8: add summary and test for SES and RC in functions tNST, pNST, cNST, nst.boot, and nst.panova.
 - **2021-9-28** uploaded version 3.1.7, revise function nst.panova to avoid error for special cases in permutation.
 - **2021-8-25** uploaded version 3.1.6, revise functions tNST, pNST, cNST, nst.boot, and nst.panova to avoid error for special cases in MST calculation.
