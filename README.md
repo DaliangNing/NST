@@ -42,7 +42,7 @@ The following indexes can be find in the output of function tNST or pNST.
   install.packages("NST")
   ```
   - Install from source file:
-    - Download an NST version from this repository NST/RPackage/AllVersions.
+    - Download an NST version from this repository [NST/RPackage/AllVersions](https://github.com/DaliangNing/NST/tree/master/RPackage/AllVersions).
     - Open R, install or update following packages: vegan,parallel,permute,ape,bigmemory,iCAMP,DirichletReg.
     ```
     install.packages(c("vegan", "parallel", "permute", "ape", "bigmemory", "iCAMP", "DirichletReg"))
