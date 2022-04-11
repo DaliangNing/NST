@@ -43,9 +43,9 @@ The following indexes can be find in the output of function tNST or pNST.
   ```
   - Install from source file:
     - Download an NST version from this repository NST/RPackage/AllVersions.
-    - Open R, install or update following packages: vegan,parallel,permute,ape,bigmemory,iCAMP.
+    - Open R, install or update following packages: vegan,parallel,permute,ape,bigmemory,iCAMP,DirichletReg.
     ```
-    install.packages(c("vegan", "permute", "ape", "bigmemory", "iCAMP"))
+    install.packages(c("vegan", "parallel", "permute", "ape", "bigmemory", "iCAMP", "DirichletReg"))
     ```   
     - In R, click Packages/install package from local file, then select the file. For windows, select the .zip file. For Mac/Linux, select the .gz file. Alternatively, in Linux sytem, if you open R in a terminal, use following command to install from the .gz file (revise "/Path/to/the/folder" to the real path of the .gz file on your computer, revise "xxx" to the version number of NST):
     ```
