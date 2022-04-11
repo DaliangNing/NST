@@ -62,15 +62,31 @@ The following indexes can be find in the output of function tNST or pNST.
 
 ## Publications
 ### Our studies
+-	Kuang J, Bates CT, Wan X, Ning D, Deng D, Shu W, and Zhou J. 2021. High historical variability weakens the effects of current climate differentiation on microbial community dissimilarity and assembly. **Global Change Biology** 27, 5963-5975. https://doi.org/10.1111/gcb.15848.
 -	Ning D, Yuan M, Wu L, Zhang Y, Guo X, Zhou X, Yang Y, Arkin AP, Firestone MK, and Zhou J. A quantitative framework reveals ecological drivers of grassland microbial community assembly in response to warming. **Nature Communications** 11, 4717 (2020) [doi:10.1038/s41467-020-18560-z](https://doi.org/10.1038/s41467-020-18560-z).
+-	Liang Y, Ning D, Lu Z, Zhang N, Hale L, Wu L, Clark IM, McGrath SP, Storkey J, Hirsch PR, Sun B, and Zhou J. 2020. Century long fertilization reduces stochasticity controlling grassland microbial community succession. **Soil Biology and Biochemistry** 151, 108023. https://doi.org/10.1016/j.soilbio.2020.108023.
 -	Ning D, Deng Y, Tiedje JM, and Zhou J. A General Framework for Quantitatively Assessing Ecological Stochasticity. **Proceedings of the National Academy of Sciences of the United States of America** 116, 16892-16898 (2019) [doi:10.1073/pnas.1904623116](https://doi.org/10.1073/pnas.1904623116).
-- Liang Y, Ning D, Lu Z, Zhang N, Hale L, Wu L, Clark IM, McGrath SP, Storkey J, Hirsch PR, Sun B, and Zhou J. Century long fertilization reduces stochasticity controlling grassland microbial community succession. **bioRxiv** (2019) [doi:10.1101/638908](https://doi.org/10.1101/638908).
-- Guo X, Feng J, Shi Z, Zhou X, Yuan M, Tao X, Hale L, Yuan T, Wang J, Qin Y, Zhou A, Fu Y, Wu L, He Z, Van Nostrand JD, Ning D, Liu X, Luo Y, Tiedje JM, Yang Y, and Zhou J. Climate warming leads to divergent succession of grassland microbial communities. **Nature Climate Change** 8, 813-818 (2018) [doi:10.1038/s41558-018-0254-2](https://doi.org/10.1038/s41558-018-0254-2).
 -	Wu L, Ning D, Zhang B, Li Y, Zhang P, Shan X, Zhang Q, Global Water Microbiome Consortium, et al. Global diversity and biogeography of bacterial communities in wastewater treatment plants. **Nature Microbiology** 4, 1183-1195 (2019) [doi:10.1038/s41564-019-0426-5](https://doi.org/10.1038/s41564-019-0426-5).
+- Guo X, Feng J, Shi Z, Zhou X, Yuan M, Tao X, Hale L, Yuan T, Wang J, Qin Y, Zhou A, Fu Y, Wu L, He Z, Van Nostrand JD, Ning D, Liu X, Luo Y, Tiedje JM, Yang Y, and Zhou J. Climate warming leads to divergent succession of grassland microbial communities. **Nature Climate Change** 8, 813-818 (2018) [doi:10.1038/s41558-018-0254-2](https://doi.org/10.1038/s41558-018-0254-2).
 - Zhou J, Deng Y, Zhang P, Xue K, Liang Y, Van Nostrand JD, Yang Y, He Z, Wu L, Stahl DA, Hazen TC, Tiedje JM, and Arkin AP. Stochasticity, succession, and environmental perturbations in a fluidic ecosystem. **Proceedings of the National Academy of Sciences** 111, E836-E845 (2014) [doi:10.1073/pnas.1324044111](https://doi.org/10.1073/pnas.1324044111).
 
 ### Other examples
--	Qiu L, Fang W, He H, Liang Z, Zhan Y, Lu Q, Liang D, He Z, Mai B, and Wang S. Organohalide-Respiring Bacteria in Polluted Urban Rivers Employ Novel Bifunctional Reductive Dehalogenases to Dechlorinate Polychlorinated Biphenyls and Tetrachloroethene. Environmental Science & Technology 54, 8791-8800 (2020) https://doi.org/10.1021/acs.est.0c01569.
+#### 2022
+- Romdhane S, Spor A, Aubert J, Bru D, Breuil M-C, Hallin S, Mounier A, Ouadah S, Tsiknia M, and Philippot L. 2022. Unraveling negative biotic interactions determining soil microbial community assembly and functioning. **The ISME Journal** 16, 296-306. https://doi.org/10.1038/s41396-021-01076-9.
+- Thom C, Smith CJ, Moore G, Weir P, and Ijaz UZ. 2022. Microbiomes in drinking water treatment and distribution: A meta-analysis from source to tap. **Water Research** 212, 118106. https://doi.org/10.1016/j.watres.2022.118106.
+- Liu S, Chen Q, Li J, Li Y, Zhong S, Hu J, Cai H, Sun W, and Ni J. 2022. Different spatiotemporal dynamics, ecological drivers and assembly processes of bacterial, archaeal and fungal communities in brackish-saline groundwater. **Water Research** 214, 118193. https://doi.org/10.1016/j.watres.2022.118193.
+#### 2021
+- Liu W, Liu L, Yang X, Deng M, Wang Z, Wang P, Yang S, Li P, Peng Z, Yang L, and Jiang L. 2021. Long-term nitrogen input alters plant and soil bacterial, but not fungal beta diversity in a semiarid grassland. **Global Change Biology** 27, 3939-3950. https://doi.org/10.1111/gcb.15681.
+- Fort T, Pauvert C, Zanne AE, Ovaskainen O, Caignard T, Barret M, Compant S, Hampe A, Delzon S, and Vacher C. 2021. Maternal effects shape the seed mycobiome in Quercus petraea. **New Phytologist** 230, 1594-1608. https://doi.org/10.1111/nph.17153.
+-	Guo J, Ling N, Li Y, Li K, Ning H, Shen Q, Guo S, and Vandenkoornhuyse P. 2021. Seed-borne, endospheric and rhizospheric core microbiota as predictors of plant functional traits across rice cultivars are dominated by deterministic processes. **New Phytologist** 230, 2047-2060. https://doi.org/10.1111/nph.17297.
+- Zhou L, Zhou Y, Tang X, Zhang Y, Jang K-S, Székely AJ, and Jeppesen E. 2021. Resource aromaticity affects bacterial community successions in response to different sources of dissolved organic matter. **Water Research** 190, 116776. https://doi.org/10.1016/j.watres.2020.116776.
+- Wang A, Shi K, Ning D, Cheng H, Wang H, Liu W, Gao S, Li Z, Han J, Liang B, and Zhou J. 2021. Electrical selection for planktonic sludge microbial community function and assembly. **Water Research** 206, 117744. https://doi.org/https://doi.org/10.1016/j.watres.2021.117744.
+- Zhang L, Yin W, Wang C, Zhang A, Zhang H, Zhang T, and Ju F. 2021. Untangling Microbiota Diversity and Assembly Patterns in the World's Largest Water Diversion Canal. **Water Research** 204, 117617. https://doi.org/10.1016/j.watres.2021.117617.
+- Zhang J, Chen Y, Huo Y, Guo J, Wan L, Lu Z, Wu QL, Jeppesen E, Han B-P, and Ren L. 2021. Eutrophication increases deterministic processes and heterogeneity of co-occurrence networks of bacterioplankton metacommunity assembly at a regional scale in tropical coastal reservoirs. **Water Research** 202, 117460. https://doi.org/10.1016/j.watres.2021.117460.
+- Niederdorfer R, Fragner L, Yuan L, Hausherr D, Wei J, Magyar P, Joss A, Lehmann MF, Ju F, and Bürgmann H. 2021. Distinct growth stages controlled by the interplay of deterministic and stochastic processes in functional anammox biofilms. **Water Research** 200, 117225. https://doi.org/10.1016/j.watres.2021.117225.
+#### 2020
+-	Qiu L, Fang W, He H, Liang Z, Zhan Y, Lu Q, Liang D, He Z, Mai B, and Wang S. Organohalide-Respiring Bacteria in Polluted Urban Rivers Employ Novel Bifunctional Reductive Dehalogenases to Dechlorinate Polychlorinated Biphenyls and Tetrachloroethene. **Environmental Science & Technology**![Uploading image.png…]()
+ 54, 8791-8800 (2020) https://doi.org/10.1021/acs.est.0c01569.
 - Zhou L, Liu L, Chen W-Y, Sun J-J, Hou S-W, Kuang T-X, Wang W-X, and Huang X-D. Stochastic determination of the spatial variation of potentially pathogenic bacteria communities in a large subtropical river. Environmental Pollution 264, 114683 (2020) https://doi.org/10.1016/j.envpol.2020.114683.
 - Li P, Li W, Dumbrell AJ, Liu M, Li G, Wu M, Jiang C, and Li Z. Spatial Variation in Soil Fungal Communities across Paddy Fields in Subtropical China. mSystems 5, e00704-00719 (2020) https://doi.org/10.1128/mSystems.00704-19.
 -	Li L, Ning D, Jeon Y, Ryu H, Santo Domingo JW, Kang D-W, Kadudula A, and Seo Y. Ecological insights into assembly processes and network structures of bacterial biofilms in full-scale biologically active carbon filters under ozone implementation. Science of The Total Environment 751, 141409 (2021) https://doi.org/10.1016/j.scitotenv.2020.141409.
@@ -79,14 +95,5 @@ The following indexes can be find in the output of function tNST or pNST.
 -	Ma Z. Critical Network Structures and Medical Ecology Mechanisms Underlying Human Microbiome-Associated Diseases. iScience 23, 101195 (2020) https://doi.org/10.1016/j.isci.2020.101195.
 -	Tai X, Li R, Zhang B, Yu H, Kong X, Bai ZH, Deng Y, Jia L, and Jin DC. Pollution Gradients Altered the Bacterial Community Composition and Stochastic Process of Rural Polluted Ponds. Microorganisms 8 (2020) https://doi.org/10.3390/microorganisms8020311.
 -	Silva MOD and Pernthaler J. Biomass addition alters community assembly in ultrafiltration membrane biofilms. Scientific Reports 10, 11552 (2020) https://doi.org/10.1038/s41598-020-68460-x.
--	Cheaib B, Seghouani H, Llewellyn MS, Vandal-Lenghan K, Mercier P-L, and Derome N. The yellow perch (Perca flavescens) microbiome revealed resistance to colonisation mostly associated with neutralism driven by rare taxa under cadmium disturbance. Research Square (2020) https://doi.org/10.21203/rs.3.rs-52321/v1.
--	Chen Q-L, Hu H-W, Yan Z-Z, Li C-Y, Nguyen B-AT, Cui H-L, Zheng Y, Zhu Y-G, and He J-Z. Deterministic Selection Dominates Microbial Community Assembly in Termite Mounds Across a Large Spatial Area. Research Square (2020) https://doi.org/10.21203/rs.3.rs-34782/v1.
--	Zhang Z, Li H-Y, Wang H, Tao X-H, Wang X-Z, Jin W-Z, Chen H, Gilbert J, and Zhu Y-G. Continental-Scale Paddy Soil Bacterial Community Structure, Function and Biotic Interaction. Research Square (2020) https://doi.org/10.21203/rs.3.rs-37103/v1.
--	Zheng W, Zhao Z, Lv F, Yin Y, Wang Z, Zhao Z, Li Z, and Zhai B. Fungal alpha-diversity drives the stochasticity of bacterial and fungal community assembly in soil aggregates in the apple orchard. Research Square (2020) https://doi.org/10.21203/rs.3.rs-56672/v1.
--	Niederdorfer R, Fragner L, Yuan L, Hausherr D, Wei J, Magyar P, Joss A, Ju F, and Bürgmann H. Distinct growth stages shaped by an interplay of deterministic and neutral processes are indispensable for functional anammox biofilms. bioRxiv, 2020.2006.2003.131896 (2020) https://doi.org/10.1101/2020.06.03.131896.
 
-
-
-
-
-
+## End
