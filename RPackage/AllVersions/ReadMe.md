@@ -1,4 +1,5 @@
 # All versions of NST package
+- Version 3.1.10(20220603): tested with the latest version of package iCAMP.
 - Version 3.1.9(20220410): address notes from package check. upload to CRAN.
 - Version 3.1.8: add summary and test for SES and RC in functions tNST, pNST, cNST, nst.boot, and nst.panova.
 - Version 3.1.7: revise function nst.panova to avoid error for special cases in permutation.
