@@ -1,5 +1,6 @@
 ########################
 # version 20210511
+# version 20241022, add row.names = FALSE to write.table to avoid header error.
 # 1 # file and folder path and parameters
 
 wd="NST/Examples/SimpleOTU" # change to folder path in your computer, where the input files are saved
@@ -52,8 +53,8 @@ tnst=tNST(comm=comm, group=groupi, meta.group=meta.groupi, meta.com=NULL,
           between.group=FALSE, SES=TRUE, RC=TRUE)
 
 save(tnst,file = paste0(prefixi,".tNST.rda")) # save tNST output in R data format
-write.table(tnst$index.grp,file = paste0(prefixi,".tNST.summary.csv"), quote = FALSE,sep = ",")
-write.table(tnst$index.pair.grp,file = paste0(prefixi,".tNST.pairwise.csv"),quote = FALSE,sep = ",")
+write.table(tnst$index.grp,row.names = FALSE,file = paste0(prefixi,".tNST.summary.csv"), quote = FALSE,sep = ",")
+write.table(tnst$index.pair.grp,row.names = FALSE,file = paste0(prefixi,".tNST.pairwise.csv"),quote = FALSE,sep = ",")
 format(Sys.time()-t1)
 
 # 5.2 # Bootstrapping test
@@ -61,14 +62,14 @@ t1=Sys.time()
 tnstbt=nst.boot(nst.result=tnst, group=groupi, rand=rand.time, trace=TRUE,
                 two.tail=FALSE, out.detail=TRUE, between.group=FALSE, nworker=nworker)
 save(tnstbt,file = paste0(prefixi,".tNST.boot.rda"))
-write.table(tnstbt$summary,file = paste0(prefixi,".tNST.boot.summary.csv"), quote = FALSE,sep = ",")
-write.table(tnstbt$compare,file = paste0(prefixi,".tNST.boot.compare.csv"), quote = FALSE,sep = ",")
+write.table(tnstbt$summary,row.names = FALSE,file = paste0(prefixi,".tNST.boot.summary.csv"), quote = FALSE,sep = ",")
+write.table(tnstbt$compare,row.names = FALSE,file = paste0(prefixi,".tNST.boot.compare.csv"), quote = FALSE,sep = ",")
 (t=format(Sys.time()-t1))
 
 # 5.3 # PERMANOVA
 t1=Sys.time()
 tnstpaov=nst.panova(nst.result=tnst, group = groupi, rand = rand.time, trace = TRUE)
-write.table(tnstpaov,file = paste0(prefixi,".tNST.PERMANOVA.csv"), quote = FALSE,sep = ",")
+write.table(tnstpaov,row.names = FALSE,file = paste0(prefixi,".tNST.PERMANOVA.csv"), quote = FALSE,sep = ",")
 (t=format(Sys.time()-t1))
 
 # 6 # phylogenetic NST
@@ -99,8 +100,8 @@ pnst=NST::pNST(comm=comm, pd.desc=pdbig$pd.file, pd.wd=pdbig$pd.wd,
                exclude.conspecifics=FALSE, nworker=nworker,
                between.group=FALSE, SES=TRUE, RC=TRUE)
 save(pnst,file = paste0(prefixi,".pNST.rda")) # save pNST output in R data format
-write.table(pnst$index.grp,file = paste0(prefixi,".pNST.summary.csv"), quote = FALSE,sep = ",")
-write.table(pnst$index.pair.grp,file = paste0(prefixi,".pNST.pairwise.csv"),quote = FALSE,sep = ",")
+write.table(pnst$index.grp,row.names = FALSE,file = paste0(prefixi,".pNST.summary.csv"), quote = FALSE,sep = ",")
+write.table(pnst$index.pair.grp,row.names = FALSE,file = paste0(prefixi,".pNST.pairwise.csv"),quote = FALSE,sep = ",")
 format(Sys.time()-t1)
 
 # 6.3 # Bootstrapping test
@@ -108,14 +109,14 @@ t1=Sys.time()
 pnstbt=nst.boot(nst.result=pnst, group=groupi, rand=rand.time, trace=TRUE,
                 two.tail=FALSE, out.detail=TRUE, between.group=FALSE, nworker=nworker)
 save(pnstbt,file = paste0(prefixi,".pNST.boot.rda"))
-write.table(pnstbt$summary,file = paste0(prefixi,".pNST.boot.summary.csv"), quote = FALSE,sep = ",")
-write.table(pnstbt$compare,file = paste0(prefixi,".pNST.boot.compare.csv"), quote = FALSE,sep = ",")
+write.table(pnstbt$summary,row.names = FALSE,file = paste0(prefixi,".pNST.boot.summary.csv"), quote = FALSE,sep = ",")
+write.table(pnstbt$compare,row.names = FALSE,file = paste0(prefixi,".pNST.boot.compare.csv"), quote = FALSE,sep = ",")
 (t=format(Sys.time()-t1))
 
 # 6.4 # PERMANOVA
 t1=Sys.time()
 pnstpaov=nst.panova(nst.result=pnst, group = groupi, rand = rand.time, trace = TRUE)
-write.table(pnstpaov,file = paste0(prefixi,".pNST.PERMANOVA.csv"), quote = FALSE,sep = ",")
+write.table(pnstpaov,row.names = FALSE,file = paste0(prefixi,".pNST.PERMANOVA.csv"), quote = FALSE,sep = ",")
 (t=format(Sys.time()-t1))
 
 
@@ -134,8 +135,8 @@ tnst=tNST(comm=comm, group=groupi, meta.group=meta.groupi, meta.com=NULL,
           between.group=FALSE, SES=TRUE, RC=TRUE)
 
 save(tnst,file = paste0(prefixi,".tNST.rda")) # save tNST output in R data format
-write.table(tnst$index.grp,file = paste0(prefixi,".tNST.summary.csv"), quote = FALSE,sep = ",")
-write.table(tnst$index.pair.grp,file = paste0(prefixi,".tNST.pairwise.csv"),quote = FALSE,sep = ",")
+write.table(tnst$index.grp,row.names = FALSE,file = paste0(prefixi,".tNST.summary.csv"), quote = FALSE,sep = ",")
+write.table(tnst$index.pair.grp,row.names = FALSE,file = paste0(prefixi,".tNST.pairwise.csv"),quote = FALSE,sep = ",")
 format(Sys.time()-t1)
 
 # 7.2 # specify relative abundances in regional pool which are different from the mean relative abundances of observed OTU/ASV table.
@@ -153,8 +154,8 @@ tnst=tNST(comm=comm, group=groupi, meta.group=NULL, meta.com=meta.com,
           between.group=FALSE, SES=TRUE, RC=TRUE)
 
 save(tnst,file = paste0(prefixi,".tNST.rda")) # save tNST output in R data format
-write.table(tnst$index.grp,file = paste0(prefixi,".tNST.summary.csv"), quote = FALSE,sep = ",")
-write.table(tnst$index.pair.grp,file = paste0(prefixi,".tNST.pairwise.csv"),quote = FALSE,sep = ",")
+write.table(tnst$index.grp,row.names = FALSE,file = paste0(prefixi,".tNST.summary.csv"), quote = FALSE,sep = ",")
+write.table(tnst$index.pair.grp,row.names = FALSE,file = paste0(prefixi,".tNST.pairwise.csv"),quote = FALSE,sep = ",")
 format(Sys.time()-t1)
 
 # 7.3 # specify relative abundances and occurrence frequency in regional pool
@@ -195,8 +196,8 @@ tnst=NST::tNST(comm=comm, group=groupi, meta.group=NULL,
                between.group=FALSE, SES=TRUE, RC=TRUE)
 
 save(tnst,file = paste0(prefixi,".tNST.rda")) # save tNST output in R data format
-write.table(tnst$index.grp,file = paste0(prefixi,".tNST.summary.csv"), quote = FALSE,sep = ",")
-write.table(tnst$index.pair.grp,file = paste0(prefixi,".tNST.pairwise.csv"),quote = FALSE,sep = ",")
+write.table(tnst$index.grp,row.names = FALSE,file = paste0(prefixi,".tNST.summary.csv"), quote = FALSE,sep = ",")
+write.table(tnst$index.pair.grp,row.names = FALSE,file = paste0(prefixi,".tNST.pairwise.csv"),quote = FALSE,sep = ",")
 format(Sys.time()-t1)
 
 # END
